@@ -1,6 +1,6 @@
 # RSA
 
-RSA, which is an abbreviation of the author's names (Rivest–Shamir–Adleman), is a cryptosystem which allows for asymmetric encryption. Asymmetric cryptosystems are alos commonly referred to as **Public Key Cryptography** where a public key is used to encrypt data and only a secret, private key can be used to decrypt the data.
+RSA, which is an abbreviation of the author's names (Rivest–Shamir–Adleman), is a cryptosystem which allows for asymmetric encryption. Asymmetric cryptosystems are also commonly referred to as **Public Key Cryptography** where a public key is used to encrypt data and only a secret, private key can be used to decrypt the data.
 
 ## Definitions
 
